@@ -1,0 +1,3 @@
+Nesta aula submeti no mooshak o algoritmo A1, usei o algoritmo de ordenação mergeSort, tanto para ordenar inicialmente a lista ligada, como para ordenar posteriormente por ordem alfabetica.
+Acabei o algoritmo de ordenação A2,usando o algoritmo count sort, não o submeti no mooshak, pelo facto de estar a pensar numa abordagem em c para ordenar por registos, no entanto já tenho uma solução em java em que uso listas ligadas.
+Envio o código em anexo.
